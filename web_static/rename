@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-#cp styles/3-common.css styles/4-common.css
-cp styles/5-filters.css styles/6-filters.css
-cp 5-index.html 6-index.html
